@@ -1,5 +1,5 @@
 # LabSEC-UFSC-pre-trial
-The following challenges were done as a pre-trial for joining the LabSEC UFSC development team.
+The following challenges were done on February 2, 2023 as a pre-trial for joining the [LabSEC UFSC](https://labsec.ufsc.br/) development team.
 
 ---
 
