@@ -3,7 +3,7 @@ The following challenges were done on February 2, 2023 as a pre-trial for joinin
 
 ---
 
-## What are the challenges?
+## Which challenges are these?
 These are the challenges 1 to 4 of the set 1 of the [cryptopals crypto challenges](https://cryptopals.com/).
 
 ---
